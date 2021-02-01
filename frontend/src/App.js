@@ -9,7 +9,6 @@ const App = () => {
       <Header />
       <main>
         <Container>
-          <h1>Beauty Empire !</h1>
         </Container>
       </main>
       <Footer />
